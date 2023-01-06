@@ -98,7 +98,7 @@ li{
 .Plans-container{
     display: flex;
     justify-content: space-evenly;
-    margin-top: 60px;
+    margin-top: 90px;
 
 }
 .plans-sub-continer{
@@ -145,7 +145,7 @@ li{
 }
 .service-sub-continer{
     padding: 120px 40px;
-    background-color: rgba(0, 0, 0, 0.075);
+    background-color: rgba(241, 123, 26, 0.075);
     border-radius: 10px;
     text-align: center;
 }
@@ -249,7 +249,7 @@ li{
 
 }
 .email-input{
-    padding: 20px 55px 20px 10px;
+    padding: 20px 105px 20px 10px;
     font-size: 20px;
     border: 1px solid white;
     background-color: black;
