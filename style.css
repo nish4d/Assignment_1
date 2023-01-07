@@ -247,6 +247,7 @@ li{
 }
 .social-icon img{
    margin-right: 15px;
+   cursor: pointer;
 }
 
 .email-title{
